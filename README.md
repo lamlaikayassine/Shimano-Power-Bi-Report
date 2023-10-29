@@ -1,28 +1,30 @@
-✅ Objectif du projet :
+# Project Objective
 
-- Connecter et transformer les données brutes.
-- Construire un modèle de données relationnel.
-- Créer des colonnes et des mesures calculées avec DAX.
-- Concevoir un tableau de bord interactif pour visualiser les données.
+- Connect and transform raw data.
+- Build a relational data model.
+- Create calculated columns and measures with DAX.
+- Design an interactive dashboard to visualize the data.
 
-⚠️ : Pour créer une expérience plus vraie que nature, j'ai incorporé le logo Shimano dans le projet, simulant ainsi des conditions réelles. Cela a ajouté de l'authenticité et de la profondeur à L’analyse.
+**Note**: To create a more lifelike experience, I've incorporated the Shimano logo into the project, simulating real-world conditions. This added authenticity and depth to the analysis.
 
-⚠️ : Qu'est-ce que Shimano ? Shimano, Inc, à l'origine Shimano Iron Works puis Shimano Industries, Inc, est une multinationale japonaise spécialisée dans la fabrication de composants cyclistes, d'articles de pêche et d'équipements d'aviron.
+**Note**: What is Shimano? Shimano, Inc, originally Shimano Iron Works and then Shimano Industries, Inc, is a Japanese multinational specializing in the manufacture of cycling components, fishing gear, and rowing equipment.
 
-En outre, le projet était axé sur des données de vente approfondies, une analyse complexe des produits et la compréhension du comportement des clients. L'inclusion de graphiques et de visualisations a ajouté une nouvelle dimension à nos idées, en rendant les détails des ventes, des produits et des clients plus compréhensibles.
+Furthermore, the project focused on in-depth sales data, complex product analysis, and understanding customer behavior. The inclusion of charts and visualizations added a new dimension to our insights, making sales, product, and customer details more understandable.
 
-Étapes Clés :
+## Key Steps:
 
-1️⃣ Transformation des données : Importation réussie de données à partir de fichiers CSV, avec diverses techniques de transformation et création de colonnes calculées.
+1. Data Transformation: Successful import of data from CSV files, with various transformation techniques and creation of calculated columns.
 
-2️⃣ Conception d'un modèle de données relationnel : Normalisation de la base de données, identification des tables de faits et de dimensions, et établissement de clés primaires et étrangères.
+2. Design of a Relational Data Model: Database normalization, identification of fact and dimension tables, and establishment of primary and foreign keys.
 
-3️⃣ Calculs complexes et mesures avec DAX : Création de formules pour obtenir une vue complète des KPI et de la performance de l'entreprise.
+3. Complex Calculations and DAX Measures: Formulas created to gain a comprehensive view of KPIs and business performance.
 
-4️⃣ Conception d'un tableau de bord interactif : Création d'un outil puissant pour analyser la performance régionale, les tendances des produits et les clients à forte valeur.
+4. Design of an Interactive Dashboard: Creation of a powerful tool to analyze regional performance, product trends, and high-value customers.
 
-5️⃣ Intégration de l'intelligence artificielle : Ajout de fonctionnalités telles que les questions-réponses, l'apprentissage automatique pour comprendre la langue marocaine darija 🇲🇦 , la détection des anomalies et un rapporteur pour enrichir le projet.
+5. Integration of Artificial Intelligence: Addition of features such as question-answering, machine learning to understand the Moroccan Darija language 🇲🇦, anomaly detection, and reporting to enrich the project.
 
-6️⃣ Optimisation : Rationalisation des processus pour rendre la visualisation Power plus rapide et plus efficace, assurant que la solution fonctionne à son plein potentiel.
+6. Optimization: Streamlining processes to make the Power visualization faster and more efficient, ensuring the solution operates at its full potential.
 
-✅ Ce projet a été une démonstration de la puissance des données et de l'analyse pour favoriser le succès en entreprise. Il a montré comment la transformation de données brutes en informations exploitables peut renforcer la prise de décision et conduire à des améliorations significatives. La combinaison de Power BI, de la transformation des données, de l'intégration et de l'optimisation a créé une solution puissante qui façonnera nos projets futurs. 🚀🚀
+# Conclusion
+
+This project demonstrated the power of data and analysis in driving business success. It showcased how transforming raw data into actionable insights can strengthen decision-making and lead to significant improvements. The combination of Power BI, data transformation, integration, and optimization created a powerful solution that will shape our future projects. 🚀🚀
