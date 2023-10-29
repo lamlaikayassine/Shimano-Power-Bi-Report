@@ -1,3 +1,7 @@
+# Screenshots
+
+![ezgif com-gif-maker](https://github.com/lamlaikayassine/Shimano-Power-Bi-Report/assets/27789372/678f7985-df9e-4ef6-9a05-16c47275335c)
+
 # Project Objective
 
 - Connect and transform raw data.
